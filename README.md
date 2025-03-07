@@ -1,4 +1,4 @@
-# Crud-GraplQL-Mongo
+# Crud-GraphQL-Mongo
 
 # Instruções para Rodar o Projeto
 
